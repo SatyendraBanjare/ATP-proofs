@@ -11,3 +11,6 @@ translate them for other proof assistants too.
 The `basic/` part contains the super basic ideas and fundamentals of working of a given ATP.
 This includes its own used ways and tactic systems. 
 
+Proofs                          | Coq                             | Isabelle
+--------------------------------|---------------------------------|---------------------------------
+De Morgan's Law                 | Yes                             | No
